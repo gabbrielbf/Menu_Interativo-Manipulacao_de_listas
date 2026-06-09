@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto criado com intuito de testar meus aprendizados em Python básico. Se trata de um menu interativo no qual sua lógica por trás consiste em manipulação de várias listas. É funcional e contém tratamento de erros para grande parte das tentativas de errar cometidas pelo usuário usuário; Porém, durante exibições das listas nas opções 3 e 4, os INDEX exibidos não correspondem aos específicos itens dentro da lista. Ajustarei esses erros para tornar meu algorítmo 100%. Por parte, ele já está disponível para teste pessoal, sugestões de melhorias e adição de recursos nas opções.
+Projeto criado com intuito de testar meus aprendizados em Python básico. Se trata de um menu interativo no qual sua lógica por trás consiste em manipulação de várias listas. É funcional e contém tratamento de erros para TODAS as tentativas de errar cometidas pelo usuário usuário; Por parte, ele já está disponível para teste pessoal, sugestões de melhorias e adição de recursos nas opções.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto ORIGINAL no qual me baseei através [DESSE LINK](https://www.youtube.com/watch?v=GhLCjn1Gs84). Não é necessário ter conta no [YouTube](https://www.youtube.com/) para acessá-lo.
